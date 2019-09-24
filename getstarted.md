@@ -18,3 +18,17 @@ git checkout testnet
 ./scripts/dev_setup.sh
 ```
 
+4. Run the CLI
+
+```text
+./scripts/cli/start_cli_testnet.sh
+```
+
+5. Run Your First Transaction
+
+[My First Transaction](https://developers.libra.org/docs/my-first-transaction)
+
+
+
+
+
